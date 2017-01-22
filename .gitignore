@@ -1,0 +1,7 @@
+__pycache__
+*.pyc
+*.pyo
+./RichConsole.egg-info
+./build
+./dist
+./.eggs
