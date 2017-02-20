@@ -1,5 +1,7 @@
 RichConsole.py [![Unlicensed work](https://raw.githubusercontent.com/unlicense/unlicense.org/master/static/favicon.png)](https://unlicense.org/)
 ===============
+
+[![Join the chat at https://gitter.im/RichConsole/Lobby](https://badges.gitter.im/RichConsole/Lobby.svg)](https://gitter.im/RichConsole/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![TravisCI Build Status](https://travis-ci.org/KOLANICH/RichConsole.svg?branch=master)](https://travis-ci.org/KOLANICH/RichConsole)
 [![PyPi Status](https://img.shields.io/pypi/v/RichConsole.svg)](https://pypi.python.org/pypi/RichConsole)
 [![Coveralls Coverage](https://img.shields.io/coveralls/KOLANICH/RichConsole.svg)](https://coveralls.io/r/KOLANICH/RichConsole)
